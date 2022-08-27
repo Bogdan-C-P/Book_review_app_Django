@@ -1,0 +1,7 @@
+django
+django-filter
+django-storages
+pillow
+gunicorn
+whitenoise
+dj-database-url
